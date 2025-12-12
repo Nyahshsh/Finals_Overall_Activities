@@ -1,2 +1,2 @@
 # Finals_Overall_Activities
-1st Semester Finals Laboratory Exam (Compro 1)
+1st Semester Finals Activities (Compro 1)
